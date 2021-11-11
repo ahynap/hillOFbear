@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/90750871/141269188-bd9b7f77-8e29-4cb6-
 
 ## What I have learned from this project?
 1. ***Creativity skills***
-   - designing a character, games story, and all the functions in this game.
+   - designing a character, a games story, and all the functions in this game.
    - was a game illustrator and graphic designer.
 2. ***Management and leadership skills***
    - first mover for this project and assign tasks to team members based on "put the right man on the right job".
