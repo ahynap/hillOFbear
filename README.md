@@ -31,6 +31,6 @@ https://user-images.githubusercontent.com/90750871/141269188-bd9b7f77-8e29-4cb6-
 3. ***Problem Solving skills***
    - prevent worst case scenarios and evaluate the option for decision-making e.g. to prevent players from cheating (play for coin collecting), players must attain a goal (honey jar) before getting coin approve.
 4. ***Collaboration skills***
-   - respect team members opinions.
+   - woking as team and respect team members opinions.
 5. ***Self-learning skills***
    - learning on my own and using the skill that doesn't in the classroom.
