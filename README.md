@@ -3,11 +3,7 @@
 
 
 <p align="center">
-    A platform game on Android mobile <br /> 
-    require players to control a "Bear" who traverses levels to attain <br /> 
-    a particular goal (honey jar) and can collect coins to buy a new character for more skills.
-    <br /> <br />
-    ** ps. Apologize, now this game is only available for Android and only have instruction in Thai language. **
+    a 2D mobile game only avaliable for Android. Players need to control a "bear" to cross obstacles to reach a goal (honey jar). And can also collect coins to buy new characters to improve their skills.
 </p>
  
 ![hills](https://user-images.githubusercontent.com/90750871/141277374-15a6b7ea-270a-49a5-afae-f95b055adc27.png)
